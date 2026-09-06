@@ -56,7 +56,7 @@ These were the problems that actually taught the structure — not the happy pat
 
 No frameworks. The interesting part is the pointer logic and the tests, not the toolchain.
 
-## Why this might interest an employer
+## Outcomes and feats
 
 - Comfort with a core data structure instead of only using arrays
 - Tests written alongside the implementation, including failure and empty-list cases
